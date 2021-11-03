@@ -23,3 +23,7 @@ A webpage for multi-recommendation system consisting of movie, book and game.
 ## GAME SEARCH
 ![gameui](https://user-images.githubusercontent.com/63343297/140091527-dcc154e3-2ada-4dea-ad05-773d8a20727e.PNG)
 ![gameui2](https://user-images.githubusercontent.com/63343297/140091535-c0ab8904-0315-45b6-9ed6-5ff40b8675b0.PNG)
+
+<a href="#" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
