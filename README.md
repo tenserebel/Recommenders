@@ -32,3 +32,4 @@ A webpage for multi-recommendation system consisting of movie, book and game..
 ![gameui2](https://user-images.githubusercontent.com/63343297/140091535-c0ab8904-0315-45b6-9ed6-5ff40b8675b0.PNG)
 
 
+[Books Colab File](https://colab.research.google.com/drive/1Q6oUAv9l9Ay7MOv9q8dp91YzHW5MnO5F?usp=sharing) 
